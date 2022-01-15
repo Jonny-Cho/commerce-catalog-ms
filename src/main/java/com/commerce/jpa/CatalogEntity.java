@@ -1,4 +1,4 @@
-package com.commerce.entity;
+package com.commerce.jpa;
 
 import lombok.Getter;
 import org.hibernate.annotations.ColumnDefault;

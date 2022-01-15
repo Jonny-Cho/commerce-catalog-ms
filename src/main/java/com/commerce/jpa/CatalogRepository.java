@@ -1,4 +1,4 @@
-package com.commerce.entity;
+package com.commerce.jpa;
 
 import org.springframework.data.repository.CrudRepository;
 
